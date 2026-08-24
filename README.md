@@ -841,5 +841,87 @@
                                         <p>A abundância de recursos hídricos permite que o Paraná concentre plantas geradoras críticas, com destaque para a Usina Hidrelétrica Binacional de Itaipu.</p>
                                     </details>
                                 </div>
-                    https://mail-attachment.googleusercontent.com/attachment/u/0/?ik=73ade2bf41&view=att&permmsgid=msg-f:1873773687131843196&disp=comp&safe=1&saddbat=ANGjdJ-a6KCAA12aku-98dJeRNVqXa3Gfp-NSfRoVYCFhak5bD6UvVdIE1js16GRmKW08pBilv0k9332AE-beKBncs-J87hgMg0jhe0-dJuQrI-DYrd8uRpEncc0hjUtOAV-9qidBITxOLcDsLPf_oUwZ2oLJzW1RnTWndVGzvb_Rmr066tnGw7jBn2Nc8Pf44XWQrQru14cCc-RuA-taJGyF04Krn35CK8yJIjIU8ON508zreESGIMNilph7c_LXZoa3wG19_CgOQtNtA5G4QH6f_Ag_JVkLhZbWjtM6jotIDFOMP8NSRyg7m7lWqIMIv96pg7a8N8I8w-y7sbNvkqOrVA8XsLNUkGU5voaP7TXAxXNo26ADbKesgz_fFmY3aKoxbQSC93vJdFEtm76av1oUnT0VrdQ0d_204KVBSK5bCuurDJqPJobQAVnmX4WhIVc5gWOBqyg6d8Tiynab3pOUmrDQJ_GUQxGEuU3YjM8-yKK0wNSEhVvSsEcaCkzFBjlJ9ThJJNyVFHS-3tVOcTNwDTF76tI-5hCa_7x-Fp1oNGyGIrpYUR2ZaEFuMcfF8RES5wAyC1aHTlrejtvw0e2U0amDPknQU0NQtapdRnX1Gmdgr08rmnfWNqOadFnB1ZZg5GggkZniJ-_m8T3RuaXSjuIAdr-TiRR9krJJLor1TIZ1FCD5ZFxICnl55VDHd1Kr0BlbDlIArIsFSRiYfh5f2t43rj_ETyMfgWy_1v0ImuBl3PAGQqM696TVGCmBv1FnKKSb6UHBz8snVwIyAzYh34cTtZwApZK3YkCUy7SwQ-UJJir0KizMEUQmddaVjspaC_84l4g6n1kpiCwF99p4_0PvXz-LzuVyy-gYmuHkPTecv87UdnsqUraWDtJ7O4u9UaUmtgpXz_XXVDmocI4MSh2Bg_hywuNPutdbKnsAzpvNaOaUf04vbbZq0QYEUJegs31MAKtAssly46RDyM6K88_lrmfZ4XutAUs57jAQwmwnsw6_AmqWF-JevWFOiqnCRuIpqcmHTIlO1SZ
-https://mail-attachment.googleusercontent.com/attachment/u/0/?ik=73ade2bf41&view=att&permmsgid=msg-f:1873773687131843196&disp=comp&safe=1&saddbat=ANGjdJ-a6KCAA12aku-98dJeRNVqXa3Gfp-NSfRoVYCFhak5bD6UvVdIE1js16GRmKW08pBilv0k9332AE-beKBncs-J87hgMg0jhe0-dJuQrI-DYrd8uRpEncc0hjUtOAV-9qidBITxOLcDsLPf_oUwZ2oLJzW1RnTWndVGzvb_Rmr066tnGw7jBn2Nc8Pf44XWQrQru14cCc-RuA-taJGyF04Krn35CK8yJIjIU8ON508zreESGIMNilph7c_LXZoa3wG19_CgOQtNtA5G4QH6f_Ag_JVkLhZbWjtM6jotIDFOMP8NSRyg7m7lWqIMIv96pg7a8N8I8w-y7sbNvkqOrVA8XsLNUkGU5voaP7TXAxXNo26ADbKesgz_fFmY3aKoxbQSC93vJdFEtm76av1oUnT0VrdQ0d_204KVBSK5bCuurDJqPJobQAVnmX4WhIVc5gWOBqyg6d8Tiynab3pOUmrDQJ_GUQxGEuU3YjM8-yKK0wNSEhVvSsEcaCkzFBjlJ9ThJJNyVFHS-3tVOcTNwDTF76tI-5hCa_7x-Fp1oNGyGIrpYUR2ZaEFuMcfF8RES5wAyC1aHTlrejtvw0e2U0amDPknQU0NQtapdRnX1Gmdgr08rmnfWNqOadFnB1ZZg5GggkZniJ-_m8T3RuaXSjuIAdr-TiRR9krJJLor1TIZ1FCD5ZFxICnl55VDHd1Kr0BlbDlIArIsFSRiYfh5f2t43rj_ETyMfgWy_1v0ImuBl3PAGQqM696TVGCmBv1FnKKSb6UHBz8snVwIyAzYh34cTtZwApZK3YkCUy7SwQ-UJJir0KizMEUQmddaVjspaC_84l4g6n1kpiCwF99p4_0PvXz-LzuVyy-gYmuHkPTecv87UdnsqUraWDtJ7O4u9UaUmtgpXz_XXVDmocI4MSh2Bg_hywuNPutdbKnsAzpvNaOaUf04vbbZq0QYEUJegs31MAKtAssly46RDyM6K88_lrmfZ4XutAUs57jAQwmwnsw6_AmqWF-JevWFOiqnCRuIpqcmHTIlO1SZ
+      <!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Presença Negra no Paraná</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            padding: 20px;
+        }
+        .card {
+            background-color: #fff;
+            border-left: 5px solid #8B4513;
+            padding: 20px;
+            margin: 0 auto;
+            max-width: 600px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+        h2 {
+            color: #8B4513;
+            margin-top: 0;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="card">
+        <h2>A Importância Negra no Paraná</h2>
+        <p>A história do Paraná é fortemente marcada pela presença e resistência negra desde o período colonial.</p>
+        <ul>
+            <li><strong>Resistência:</strong> Formação de comunidades quilombolas espalhadas pelo estado.</li>
+            <li><strong>Cultura:</strong> Manifestações artísticas, religiosas e festividades tradicionais.</li>
+            <li><strong>Economia:</strong> Trabalho na agricultura, tropeirismo e construção de cidades.</li>
+        </ul>
+    </div>
+
+</body>
+</htm# Resumo em Código: Tropeiros do Paraná
+class TropeirismoParana:
+
+    def __init__(self):
+        self.periodo = "Século XVIII ao Início do Século XX"
+        self.rota_principal = "Caminho de Viamão a Sorocaba"
+        self.regioes_destaque = ["Campos Gerais", "Rio Negro", "Lapa"]
+
+    def objetivos_economicos(self):
+        return [
+            "Transporte de muares para as minas de ouro",
+            "Comércio de gado e charque",
+            "Engorda de animais nas invernadas paranaenses",
+        ]
+
+    def impacto_regional(self):
+        return {
+            "fundacao_cidades": [
+                "Castro",
+                "Ponta Grossa",
+                "Lapa",
+                "Palmeira",
+            ],
+            "funcoes_sociais": [
+                "Correio humano (levavam notícias)",
+                "Integração territorial",
+            ],
+            "legado": "Formação da identidade cultural paranaense",
+        }
+
+
+# Executando o resumo histórico
+resumo = TropeirismoParana()
+print(f"Período: {resumo.periodo}")
+print(f"Cidades criadas/impulsionadas: {resumo.impacto_regional()['fundacao_cidades']}")
+l>
+
+                    

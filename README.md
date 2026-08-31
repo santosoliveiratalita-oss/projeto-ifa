@@ -355,3 +355,14 @@ if __name__ == "__main__":
 
 </body>
 </html>
+# GESTÃO PÚBLICA
+
+## Reportagem Especial: Gestão Pública em Rio Negro-PR
+### Análise detalhada sobre os avanços, desafios e as novas estratégias da administração municipal na região.
+
+**Publicado em:** 31 de Agosto de 2026  
+**Local:** Rio Negro - PR
+
+---
+
+[Insira o texto dos seus parágrafos aqui...]

@@ -150,76 +150,8 @@
 
     <footer>
         <p>Site sobre o Tropeirismo criado para o GitHub Pages.</p>
-    </footer>
-
-</body>
-</html>
-def exibir_menu():
-    print("\n" + "="*50)
-    print("      CONTEÚDO INTERATIVO: GEOGRAFIA DO PARANÁ")
-    print("="*50)
-    print("1. Visão Geral e Localização")
-    print("2. Relevo e as Unidades Morfológicas")
-    print("3. Clima e Vegetação")
-    print("4. Hidrografia")
-    print("5. População e Economia")
-    print("6. Sair do programa")
-    print("="*50)
-
-def obter_conteudo_geografia():
-    # Todo o conteúdo centralizado em uma única estrutura de dados
-    return {
-        "1": {
-            "titulo": "Visão Geral e Localização",
-            "texto": (
-                "- Área Territorial: Aproximadamente 199.307 km² (2,34% do território nacional).\n"
-                "- Localização: Região Sul do Brasil.\n"
-                "- Fronteiras: São Paulo (norte/nordeste), Santa Catarina (sul), Oceano Atlântico (leste),\n"
-                "             Argentina (sudoeste) e Paraguai (oeste).\n"
-                "- Capital: Curitiba (localizada no Primeiro Planalto)."
-            )
-        },
-        "2": {
-            "titulo": "Relevo e as Cinco Unidades Morfológicas",
-            "texto": (
-                "O relevo paranaense desce em degraus de leste para oeste, dividido em:\n"
-                "1. Litoral: Planície costeira e baías (Paranaguá e Guaratuba).\n"
-                "2. Serra do Mar: Cordilheira que separa o litoral do interior (onde fica o Pico do Paraná, ponto mais alto com ~1.877m).\n"
-                "3. Primeiro Planalto (Curitiba): Terreno cristalino, plano e ondulado.\n"
-                "4. Segundo Planalto (Ponta Grossa/Campos Gerais): Formado por rochas sedimentares (Escarpa Devoniana).\n"
-                "5. Terceiro Planalto (Guarapuava/Maringá/Cascavel): O maior deles, de rochas basálticas, onde a terra roxa propicia a agricultura."
-            )
-        },
-        "3": {
-            "titulo": "Clima e Vegetação",
-            "texto": (
-                "- Clima Predominante: Subtropical úmido (Cfa ao norte/litoral com verões quentes; Cfb ao sul/planalto com verões brandos).\n"
-                "- Chuvas: Bem distribuídas ao longo de todo o ano, sem estação seca definida.\n"
-                "- Vegetação Original: Composta pela Mata Atlântica na Serra do Mar/Litoral, Mata de Araucárias (Pinheiro-do-Paraná)\n"
-                "  nos planaltos mais altos e frios, além de manchas de Campos Limpos no Segundo Planalto."
-            )
-        },
-        "4": {
-            "titulo": "Hidrografia",
-            "texto": (
-                "- Bacia Principal: Cerca de 92% do estado é drenado pela Bacia do Rio Paraná.\n"
-                "- Principais Rios: Rio Iguaçu (famoso pelas Cataratas), Rio Paranapanema (divisa com SP), Rio Ivaí e Rio Piquiri.\n"
-                "- Direção das Águas: Quase todos os grandes rios correm de leste para oeste, desaguando no Rio Paraná.\n"
-                "- Potencial Hidrelétrico: Altíssimo, destacando-se a Usina Binacional de Itaipu."
-            )
-        },
-        "5": {
-            "titulo": "População e Economia",
-            "texto": (
-                "- População: 5º estado mais populoso do Brasil (cerca de 11,4 milhões de habitantes no Censo 2022).\n"
-                "- Cidades Principais: Curitiba, Londrina, Maringá, Ponta Grossa, Cascavel e Foz do Iguaçu.\n"
-                "- Economia: Uma das maiores do país (5º maior PIB). Destaca-se no setor agropecuário (soja, milho, trigo, aves),\n"
-                "  no polo automotivo e industrial de Curitiba/região metropolitana, e no turismo (Foz do Iguaçu).\n"
-                "- Logística: Abriga o Porto de Paranaguá, o maior porto graneleiro da América Latina."
-            )
-        }
-    }
-
+    </footer
+    
 def executar_estudo():
     conteudo = obter_conteudo_geografia()
     

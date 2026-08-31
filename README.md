@@ -366,3 +366,41 @@ if __name__ == "__main__":
 ---
 
 [Insira o texto dos seus parágrafos aqui...]
+# 🗞️ Notícias de Rio Negro — Edição Histórica
+
+Acompanhe as principais crônicas, marcos e memórias que moldaram a história e a identidade do município de Rio Negro, na divisa entre o Paraná e Santa Catarina.
+
+---
+
+## 🏛️ Patrimônio e Memória Cultural
+
+Rio Negro preserva em suas ruas e arquitetura os traços marcantes da colonização europeia e de sua relevância estratégica no Sul do Brasil.
+
+### O Legado da Colonização
+A formação da identidade local carrega a forte influência de imigrantes alemães, alemães do Volga, bucovinos, poloneses e italianos. Essa rica mistura cultural reflete-se diretamente até hoje na culinária, nas festividades e nos costumes da população rionegrense.
+
+### Monumentos Históricos e Arquitetura
+* **Ponte Metálica Dr. Diniz Assis Henning:** Inaugurada em 1896, é o principal símbolo da união entre Rio Negro (PR) e Mafra (SC).
+* **Parque Eco-Turístico São Luís de Tolosa:** Antigo seminário franciscano, o local hoje abriga a prefeitura municipal, uma vasta reserva natural e espaços dedicados à preservação da memória local.
+
+---
+
+## ⏳ Linha do Tempo: Principais Marcos Históricos
+
+1. **1829:** Passagem da expedição que abriu a Estrada da Mata, consolidando o antigo Caminho das Tropas na região.
+2. **1870:** Desmembramento de Rio Negro do município de Lapa, marcando sua emancipação política oficial.
+3. **1896:** Inauguração da Ponte Metálica, impulsionando o comércio regional e o transporte entre os dois estados.
+
+---
+
+## 📊 Estatísticas e Dados do Município
+
+| Indicador | Descrição |
+| :--- | :--- |
+| **Localização** | Região Sudeste do Paraná (Divisa PR/SC) |
+| **Fundação** | 15 de novembro de 1870 |
+| **Principais Atividades** | Agropecuária, Comércio e Indústria de Transformação |
+
+---
+
+*Edição histórica produzida para fins de documentação e preservação da memória pública regional.*

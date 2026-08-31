@@ -240,3 +240,186 @@ def executar_estudo():
 # Executa a aplicação de estudos
 if __name__ == "__main__":
     executar_estudo()
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Edição Especial - História de Rio Negro</title>
+    <style>
+        /* Importando fontes com estilo de imprensa antiga e leitura limpa */
+        @import url('https://googleapis.com');
+
+        body {
+            background-color: #fcfaf2; /* Tom de papel antigo/jornal */
+            font-family: 'Lora', serif;
+            color: #1a1a1a;
+            margin: 0;
+            padding: 20px;
+        }
+
+        .newspaper-container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: #fcfaf2;
+            padding: 20px;
+            border: 1px solid #d2cbb8;
+        }
+
+        /* Cabeçalho do Jornal */
+        .newspaper-header {
+            text-align: center;
+            border-bottom: 4px double #1a1a1a;
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+        }
+
+        .newspaper-title {
+            font-family: 'Cinzel', serif;
+            font-size: 2.8rem;
+            margin: 0;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+
+        .newspaper-meta {
+            display: flex;
+            justify-content: space-between;
+            font-family: 'Playfair Display', serif;
+            font-style: italic;
+            border-top: 1px solid #1a1a1a;
+            border-bottom: 1px solid #1a1a1a;
+            padding: 5px 10px;
+            margin-top: 10px;
+            font-size: 0.9rem;
+        }
+
+        /* Estrutura da Matéria */
+        .headline {
+            font-family: 'Playfair Display', serif;
+            font-size: 2.2rem;
+            font-weight: 700;
+            text-align: center;
+            margin: 25px 0 15px 0;
+            line-height: 1.2;
+        }
+
+        .subhead {
+            font-family: 'Playfair Display', serif;
+            font-style: italic;
+            font-size: 1.2rem;
+            text-align: center;
+            color: #444;
+            margin-bottom: 25px;
+            border-bottom: 1px dashed #bebaa8;
+            padding-bottom: 15px;
+        }
+
+        /* O segredo do layout de jornal: Múltiplas Colunas */
+        .article-columns {
+            column-count: 2;
+            column-gap: 30px;
+            column-rule: 1px solid #bebaa8;
+            text-align: justify;
+            text-justify: inter-word;
+        }
+
+        .article-columns p {
+            margin-top: 0;
+            margin-bottom: 15px;
+            line-height: 1.6;
+            font-size: 1.05rem;
+            text-indent: 20px; /* Parágrafo recuado clássico */
+        }
+
+        /* Letra capitular no primeiro parágrafo */
+        .article-columns p.lead {
+            text-indent: 0;
+        }
+        .article-columns p.lead::first-letter {
+            font-family: 'Playfair Display', serif;
+            font-size: 3.5rem;
+            float: left;
+            margin-top: 6px;
+            margin-right: 8px;
+            line-height: 0.8;
+            font-weight: bold;
+        }
+
+        /* Caixa de Destaque / Entrevista / Citação */
+        .pull-quote {
+            background-color: #f5f1e3;
+            border-top: 2px solid #1a1a1a;
+            border-bottom: 2px solid #1a1a1a;
+            padding: 15px;
+            margin: 20px 0;
+            font-family: 'Playfair Display', serif;
+            font-style: italic;
+            font-size: 1.15rem;
+            text-align: center;
+            break-inside: avoid; /* Evita que a caixa quebre entre colunas */
+        }
+
+        /* Responsividade para telas pequenas */
+        @media (max-width: 600px) {
+            .article-columns {
+                column-count: 1;
+            }
+            .newspaper-title {
+                font-size: 1.8rem;
+            }
+            .headline {
+                font-size: 1.6rem;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="newspaper-container">
+        <!-- Cabeçalho Cronológico -->
+        <header class="newspaper-header">
+            <h1 class="newspaper-title">O Rio-Negrense</h1>
+            <div class="newspaper-meta">
+                <span>Ano CVI • Nº 24.890</span>
+                <span>Rio Negro, Paraná</span>
+                <span>Edição Histórica</span>
+            </div>
+        </header>
+
+        <!-- Títulos da Reportagem -->
+        <main>
+            <h2 class="headline">A Primazia Histórica da Rua Quinze de Novembro</h2>
+            <div class="subhead">Como o logradouro de Rio Negro antecipou em quase duas décadas a homenagem à República Brasileira</div>
+
+            <!-- Corpo do Texto em Colunas -->
+            <div class="article-columns">
+                <p class="lead">
+                    Ao caminhar pelo movimentado centro de Rio Negro, o cidadão incauto pode presumir que a principal artéria comercial do município partilha da mesma origem heráldica de tantas outras praças e avenidas espalhadas pelo território nacional. Todavia, a história oculta sob os paralelepípedos da Rua 15 de Novembro revela um pioneirismo cronológico singular.
+                </p>
+
+                <p>
+                    Diferente dos endereços homônimos que celebram o golpe militar republicano liderado pelo Marechal Deodoro da Fonseca em 1889, o batismo da via rio-negrense deu-se exatos dezenove anos antes do evento nacional. 
+                </p>
+
+                <div class="pull-quote">
+                    "Enquanto o Brasil ainda vivia sob a égide do Império de Dom Pedro II, as placas rionegrenses já estampavam a icônica data."
+                </div>
+
+                <p>
+                    Os registros históricos oficiais confirmam que a alteração de nomenclatura ocorreu no ano de 1870. O objetivo da edilidade local era imortalizar o dia 15 de novembro daquele ano, data em que se consolidou a tão almejada emancipação política e administrativa do município de Rio Negro.
+                </p>
+
+                <p>
+                    Antes de receber a designação que a tornaria famosa, a via era conhecida rudimentarmente como a "Rua do Portão Novo". Sua função primordial era conectar o antigo porto de balsas — que cruzava o impetuoso rio — até a estrada geral que ditava o fluxo de tropeiros e mercadorias na região. 
+                </p>
+                
+                <p>
+                    Este resgate documental devolve à municipalidade um orgulho cívico notável: o direito de salvaguardar a primeiríssima Rua 15 de Novembro de toda a história do Brasil.
+                </p>
+            </div>
+        </main>
+    </div>
+
+</body>
+</html>

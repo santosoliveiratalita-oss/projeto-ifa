@@ -404,3 +404,99 @@ A formação da identidade local carrega a forte influência de imigrantes alem�
 ---
 
 *Edição histórica produzida para fins de documentação e preservação da memória pública regional.*
+import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd
+import seaborn as sns
+
+# Configuração visual do Seaborn para gráficos elegantes
+sns.set_theme(style="whitegrid")
+plt.rcParams["figure.figsize"] = (12, 5)
+
+# ==============================================================================
+# 1. MODELAGEM DOS DADOS HISTÓRICOS E CONTEMPORÂNEOS
+# ==============================================================================
+
+# Dados sobre a transição da população do PR (Urbana vs Rural) - 1960 a 2026
+anos = [1960, 1970, 1980, 1991, 2000, 2010, 2026]
+pop_urbana = [29.1, 36.2, 58.7, 72.3, 81.2, 85.3, 88.5]  # em %
+pop_rural = [100 - x for x in pop_urbana]
+
+df_transicao = pd.DataFrame(
+    {"Ano": anos, "Urbana (%)": pop_urbana, "Rural (%)": pop_rural}
+)
+
+# Dados dos destinos contemporâneos da emigração paranaense (Principais fluxos)
+destinos_migracao = {
+    "Destino/Tipo de Fluxo": [
+        "São Paulo",
+        "Santa Catarina",
+        "Mato Grosso / MS",
+        "Intra-estadual (Cidades Médias)",
+        "Movimento Pendular (Metropolitano)",
+    ],
+    "Intensidade Estimada (%)": [35, 25, 15, 15, 10],
+}
+df_destinos = pd.DataFrame(destinos_migracao)
+
+# ==============================================================================
+# 2. PLOTAGEM DOS GRÁFICOS
+# ==============================================================================
+
+# Gráfico 1: A transição Urbana/Rural decorrente da Reestruturação Produtiva
+plt.subplot(1, 2, 1)
+plt.plot(
+    df_transicao["Ano"],
+    df_transicao["Urbana (%)"],
+    marker="o",
+    linewidth=2.5,
+    color="navy",
+    label="Urbana",
+)
+plt.plot(
+    df_transicao["Ano"],
+    df_transicao["Rural (%)"],
+    marker="s",
+    linewidth=2.5,
+    color="forestgreen",
+    label="Rural",
+)
+plt.title(
+    "Transição da População do Paraná\n(Êxodo Rural pós-Mecanização)", fontsize=12
+)
+plt.xlabel("Ano")
+plt.ylabel("Porcentagem (%)")
+plt.ylim(0, 100)
+plt.legend()
+
+# Gráfico 2: Fluxos e Destinos Contemporâneos da Mobilidade
+plt.subplot(1, 2, 2)
+sns.barplot(
+    x="Intensidade Estimada (%)",
+    y="Destino/Tipo de Fluxo",
+    data=df_destinos,
+    palette="viridis",
+    hue="Destino/Tipo de Fluxo",
+    legend=False,
+)
+plt.title("Principais Vetores dos Fluxos Contemporâneos\nda População do PR", fontsize=12)
+plt.xlabel("Participação / Peso Estimado (%)")
+plt.ylabel("")
+
+# Ajustes finais de layout e exibição
+plt.tight_layout()
+plt.show()
+
+# ==============================================================================
+# 3. RELATÓRIO ANALÍTICO VIA TERMINAL
+# ==============================================================================
+print("-" * 70)
+print("  ANÁLISE SINTÉTICA DA MOBILIDADE HUMANA NO PARANÁ")
+print("-" * 70)
+print(f"-> Auge do Êxodo Rural: Entre 1970 e 1980 a população urbana saltou de {pop_urbana[1]}% para {pop_urbana[2]}%.")
+print(f"-> Cenário Atual (2026): Estabilização urbana em torno de {pop_urbana[-1]}%.")
+print("-> Características Contemporâneas:")
+print("   1. Desconcentração da capital rumo a polos regionais (Cidades Médias).")
+print("   2. Consolidação de Santa Catarina como forte polo de atração.")
+print("   3. Pendularidade diária nas Regiões Metropolitanas (Curitiba, Maringá, Londrina).")
+print("-" * 70)
